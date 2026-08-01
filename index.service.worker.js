@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1785533793|4223661';
+const CACHE_VERSION = '1785598371|4834529';
 /** @type {string} */
 const CACHE_PREFIX = 'Open City 3D-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
